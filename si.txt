@@ -3,7 +3,4 @@ yes
 ya wey
 no
 
-otro commit
-no de nuevo
-nooooo
-asdfghj
+Si fue el ultimo :)
